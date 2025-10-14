@@ -1,5 +1,3 @@
 ﻿# atv-pratica-js-array
-aluno
-</hr>
-###Thierry Almeida Braga Pereira
-
+### aluno<br>
+Thierry Almeida Braga Pereira
